@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:05.431264
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:43
 #+TITLE: 大金剛妙高山樓閣陀羅尼
 #+PROPERTY: CBETA_ID T21n1415
 #+PROPERTY: ID KR6j0647
